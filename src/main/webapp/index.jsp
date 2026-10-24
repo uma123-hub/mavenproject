@@ -44,11 +44,11 @@
         <marquee behavior="scroll" direction="left" scrollamount="5">
              DevOps is a good learning platform         </marquee>
         <ul>
-            <li><strong>DEVOPS IS A  COBINATION OF DEV and OPS</strong></li>
+            <li><strong>Am Devploying into tomcat</strong></li>
             <li><strong>Master the art of Automation & Continuous Integration</strong></li>
             <li><strong>Gain Hands-on Experience with Industry Tools</strong></li>
             <li><strong>Join us and thank you for choosing DevOps!</strong></li>
-            <li><b>Learn Here Lead Anywhere </b></li>
+            <li><b>all the very best..... </b></li>
         </ul>
     </div>
 </body>
