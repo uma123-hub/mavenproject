@@ -42,7 +42,7 @@
 <body>
     <div class="container">
         <marquee behavior="scroll" direction="left" scrollamount="5">
-             DevOps is a good learning platform         </marquee>
+             changing content to test         </marquee>
         <ul>
             <li><strong>Am Devploying into tomcat</strong></li>
             <li><strong>Master the art of Automation & Continuous Integration</strong></li>
