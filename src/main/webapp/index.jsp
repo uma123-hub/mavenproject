@@ -7,7 +7,7 @@
     <style>
         body {
             font-family: Arial, sans-serif;
-            background-color: #cce7ff; /* Light blue background */
+            background-color: #cce7ff; /* Light green background */
             margin: 0;
             padding: 0;
         }
@@ -42,7 +42,7 @@
 <body>
     <div class="container">
         <marquee behavior="scroll" direction="left" scrollamount="5">
-             UMA IS BECOME A DEVOPS ENGINEER         </marquee>
+             DevOps is a good learning platform         </marquee>
         <ul>
             <li><strong>DEVOPS IS A  COBINATION OF DEV and OPS</strong></li>
             <li><strong>Master the art of Automation & Continuous Integration</strong></li>
